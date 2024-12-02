@@ -1,0 +1,1 @@
+This is a REST API built using Node.js, designed for managing news resources. It provides endpoints for creating, retrieving, updating, and deleting news items. The project uses Express.js for routing and modularized architecture with controllers and routers.
